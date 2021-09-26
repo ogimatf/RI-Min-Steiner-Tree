@@ -1,0 +1,26 @@
+33D32945 STP File, STP Format Version 1.0
+
+SECTION Comment
+Name    "Small Graph"
+Creator "O. Stamenkovic"
+Remark  "Small Graph for Brute Force testing purposes"
+END
+
+SECTION Graph
+Nodes 4
+Edges 5
+E 1 2 3
+E 2 3 4
+E 3 4 8
+E 4 1 7
+E 2 4 10
+END
+
+SECTION Terminals
+Terminals 3
+T 2
+T 3
+T 4
+END
+
+EOF
